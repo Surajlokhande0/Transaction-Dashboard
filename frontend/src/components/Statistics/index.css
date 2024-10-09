@@ -1,0 +1,34 @@
+.statistics-main-container{
+    height: 50%;
+    width: 35%;
+    padding: 20px;
+    margin-left: 30vw;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: #e2ddd9;
+}
+
+.statitics-container{
+    background-color: #adabab;
+    padding: 15px 20px;
+    margin-left: 10px;
+    border-radius: 15px;
+    height: 120px;
+    width: 90%;
+    display: flex;   
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-size: 18px;
+    
+}
+.element{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-weight: 500;
+    width: 100%;
+}
